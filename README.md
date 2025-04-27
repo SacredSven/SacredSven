@@ -1,8 +1,5 @@
-- ayo its me sven
-- i am interested in video games
-- trying to learn coding lol
-- im collabrating with bhop on a game thing
-- don't reach me i don't care
+- Its been awhile.
+- Check me out: Exdc793 basically everywhere.
 
 <!---
 SacredSven/SacredSven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
